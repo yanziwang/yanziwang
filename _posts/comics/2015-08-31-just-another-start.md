@@ -6,10 +6,10 @@ description: 无 Liao 啊...
 tags: comic
 ---
 {:.center}
-![无Liao啊](/images/1/1/1.png)
+![无Liao啊]({{ site.cdn }}/1/1/1.png)
 
 {:.center}
-![无Liao啊](/images/1/1/2.png)
+![无Liao啊]({{ site.cdn }}/1/1/2.png)
 
 {:.center}
-![无Liao啊](/images/1/1/3.png)
+![无Liao啊]({{ site.cdn }}/1/1/3.png)
