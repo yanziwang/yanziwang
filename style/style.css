@@ -162,7 +162,7 @@ a {
 
 .content img {
   height: auto;
-  width: 60%;
+  width: 100%;
   display: inline-block;
   margin: 10px auto;
   border-radius: 4px;
