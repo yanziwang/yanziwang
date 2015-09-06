@@ -166,6 +166,7 @@ a {
   display: inline-block;
   margin: 10px auto;
   border-radius: 4px;
+  max-width: 650px;
 }
 
 blockquote p {
