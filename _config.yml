@@ -1,0 +1,15 @@
+markdown:         kramdown
+highlighter:      rouge
+permalink:        /posts/:title/
+
+title:            "闹眼子小frenfren"
+url:              http://guojing.me
+feed:             /feed.xml
+author:
+    name:         GuoJing
+    twitter:      twitter.com/guojing
+    key:          jguoer
+description:      "Oh!JIZ!"
+copyright:        "CopryRight GuoJing 2012-2012 by GitHub and Jekyll"
+headdesc:         "非常不认真的闹眼子的生活小漫画"
+headkeys:         "漫画,闹眼子,朋友,不认真,生活,无聊,孤独"
