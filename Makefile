@@ -10,9 +10,9 @@ clean:
 	sh export.sh
 
 pub:
-	make cafe
+	#make cafe
 	make blog
 	git add -A
-	git ci -am'auto commit'
+	git ci -am'auto commit by yanziwang'
 	git push origin dev
 

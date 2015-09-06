@@ -129,10 +129,11 @@ a {
 }
 
 .title {
-  font-size: 6rem;
+  font-size: 5rem;
   margin-left: -5px;
   margin-bottom: 30px;
   color: #747f8c;
+  text-align: center;
 }
 
 .justtitle {
@@ -161,7 +162,7 @@ a {
 
 .content img {
   height: auto;
-  width: 100%;
+  width: 60%;
   display: inline-block;
   margin: 10px auto;
   border-radius: 4px;
