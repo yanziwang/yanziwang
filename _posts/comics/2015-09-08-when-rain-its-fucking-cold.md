@@ -28,6 +28,3 @@ tags: comic
 
 {:.center}
 ![无Liao啊]({{ site.cdn }}/1/9/8.png)
-
-{:.center}
-![无Liao啊]({{ site.cdn }}/1/9/9.png)
