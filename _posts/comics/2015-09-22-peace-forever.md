@@ -22,3 +22,6 @@ tags: comic
 
 {:.center}
 ![无Liao啊]({{ site.cdn }}/1/20/6.png)
+
+{:.center}
+![无Liao啊]({{ site.cdn }}/1/20/7.png)
