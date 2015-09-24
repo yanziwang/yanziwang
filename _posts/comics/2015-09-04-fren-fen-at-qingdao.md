@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     青岛的 frenfren 们啊
-category:  blog
+category:  life
 description: 无 Liao 啊...
 tags: comic
 ---
