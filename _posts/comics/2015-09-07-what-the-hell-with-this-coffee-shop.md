@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     奇怪的居酒屋什么鬼
-category:  blog
+category:  cat
 description: 无 Liao 啊...
 tags: comic
 ---

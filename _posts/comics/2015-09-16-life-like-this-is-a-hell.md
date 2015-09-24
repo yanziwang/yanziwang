@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     抱着这样的态度也不会有问题
-category:  blog
+category:  cat
 description: 无 Liao 啊...
 tags: comic
 ---

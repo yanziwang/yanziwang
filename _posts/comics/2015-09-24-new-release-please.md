@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     新品发布请试一下吧
-category:  blog
+category:  cat
 description: 无 Liao 啊...
 tags: comic
 ---
