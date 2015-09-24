@@ -7,7 +7,7 @@ description: 归档
     <div class="content indeximg">
         <p class="center">
             <a href="/archive" style="border-bottom: 0px">
-            <img src="/images/cat.png" style="width:100px; height:100px" />
+            <img src="/images/cat.png" style="width:200px; height:200px" />
             </a>
         </p>
         <p class="center">闹眼子居酒屋漫画集</p>
