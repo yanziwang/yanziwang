@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     有缘一定要出去赏秋啊啊
-category:  blog
+category:  life
 description: 无 Liao 啊...
 tags: comic
 ---

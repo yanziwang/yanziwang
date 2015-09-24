@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     一只狗的夜晚是什么鬼啊啊
-category:  blog
+category:  dog
 description: 无 Liao 啊...
 tags: comic
 ---

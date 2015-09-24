@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     一场秋雨凉什么啊啊
-category:  blog
+category:  life
 description: 无 Liao 啊...
 tags: comic
 ---

@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     还是世界和平重要
-category:  blog
+category:  life
 description: 无 Liao 啊...
 tags: comic
 ---
