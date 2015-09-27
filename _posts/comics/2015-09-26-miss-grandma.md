@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     遍插猪鱼少一人
-category:  fish
+category:  life
 description: 无 Liao 啊...
 tags: comic
 ---
