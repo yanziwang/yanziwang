@@ -6,6 +6,9 @@ description: 无 Liao 啊...
 tags: comic
 ---
 {:.center}
+![无Liao啊]({{ site.cdn }}/1/25/1.png)
+
+{:.center}
 ![无Liao啊]({{ site.cdn }}/1/30/1.png)
 
 {:.center}
