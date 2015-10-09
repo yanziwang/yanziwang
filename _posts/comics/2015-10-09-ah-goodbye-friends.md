@@ -48,4 +48,4 @@ tags: comic
 ![无Liao啊]({{ site.cdn }}/1/33/14.png)
 
 {:.center}
-![无Liao啊]({{ site.cdn }}/1/33/14.png)
+![无Liao啊]({{ site.cdn }}/1/33/15.png)
