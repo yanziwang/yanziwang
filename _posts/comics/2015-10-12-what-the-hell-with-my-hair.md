@@ -1,6 +1,6 @@
 ---
 layout:    post
-title:     还是"赛黄渤"比较适合我
+title:     还是赛黄渤比较适合我
 category:  cat
 description: 无 Liao 啊...
 tags: comic
