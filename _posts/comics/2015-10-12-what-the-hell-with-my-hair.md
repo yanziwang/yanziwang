@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     还是赛黄渤比较适合我
-category:  cat
+category:  life
 description: 无 Liao 啊...
 tags: comic
 ---
