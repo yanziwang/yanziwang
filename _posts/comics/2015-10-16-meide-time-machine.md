@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     美的时光穿梭机
-category:  cat
+category:  thinking
 description: 无 Liao 啊...
 tags: comic
 ---
